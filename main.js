@@ -1,0 +1,1 @@
+http://magicseaweed.com/api/0491dd8a14784887e8e150d44fea9953/forecast/?spot_id=867&fields=timestamp,swell.*,wind.*,condition.temperature,charts.*
